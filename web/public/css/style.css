@@ -1,0 +1,141 @@
+#car-race{
+    border: 1px solid rgba(0,0,0,0.04);
+    border-radius:4px; 
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+#content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.container{
+    padding: 0;
+}
+.list-inline li{
+    width: 23%;
+    text-align: center;
+}
+.save{
+    margin-top: 8px;
+}
+.copyright-block{
+    text-align: center;
+}
+.copyright{
+    margin-top:14px;
+    cursor: default;
+    color:#fff;
+}
+.navbar-toggle{
+    color:#fff;
+    border-color: #fff;
+}
+.footer{
+    margin: 0;
+}
+#menu ul li{
+    margin-left: 10px;
+}
+.image-block{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.text-img{
+    text-align: center;
+    margin-top: 6px;
+}
+.add-field{
+    float: right;
+    cursor: pointer;
+}
+.add-field:hover{
+    opacity: 0.6;
+}
+.block-edit{
+    float:right;
+}
+.edit{
+     cursor: pointer;
+}
+.edit:hover{
+     opacity: 0.6;
+}
+.dell{
+   cursor: pointer;
+    margin-left: 14px;
+}
+.dell:hover{
+    opacity: 0.6;
+}
+.block-content-title{
+    border: 1px solid #428bca;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #428bca;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 4px 4px 0 0;
+    cursor: default;
+}
+
+.block-content{
+    cursor: pointer;
+    border: 1px solid rgba(0,0,0,0.4);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: none;
+    color: #555;
+}
+.block-content:hover{
+    background: rgba(0,0,0,0.04);
+}
+.block-content:focus{
+    background:rgba(0,0,0,0.05);
+}
+.url{
+    display:none;
+}
+.data-img{
+    text-align: left;
+    margin-top: 10px;
+}
+.data-img span{
+    font-weight: bold;
+    margin-left: 6px;
+}
+.block-image{    
+    border: 1px solid rgba(0,0,0,0.04);
+    margin-bottom: 10px;   
+    overflow: hidden;
+    border-radius:4px; 
+}
+.form{
+    border: 1px solid rgba(0,0,0,0.04);
+    padding: 6px;
+    padding-top: 0px;
+    overflow: hidden;
+    border-radius:4px; 
+    margin-bottom: 10px;
+}
+.form-id{
+    display:none;
+}
+.type-id{
+    display:none;
+}
+.form-url{
+    display: none;
+}
+.command{
+    display:none;
+}
+.title-block-form{
+    font-size: 16px;
+    background: #428bca;
+    color: #fff;
+    text-align: center;
+}
+.title-label{
+    margin-top: 8px;
+    margin-bottom: 0px;
+}
